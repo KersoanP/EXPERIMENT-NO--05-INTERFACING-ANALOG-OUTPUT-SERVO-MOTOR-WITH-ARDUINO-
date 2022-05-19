@@ -76,7 +76,7 @@ CIRCUIT DIAGRAM
 
 ### OUTPUT :
  
-![servo motor](rorotics ex6.png)
+![servo motor](rorotics_ex6.png)
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
